@@ -22,8 +22,23 @@ xfs (5)              - layout, mount options, and supported file attributes for 
 ```
 3. Pour quitter une page du manuel, il suffit de presser la touche `q`
 
-4. 
+4. `man 6 intro`
 ```
     DESCRIPTION
        Section 6 of the manual describes the games and funny little programs available on the system.
 ```
+
+## :round_pushpin: Navigation dans l’arborescence des fichiers 
+
+1. Pour se rendre dans un dossier de façon absolue, la commande à utiliser est `cd /<chemin d'accès>`. Par exemple `cd /var/log`.
+
+
+2. Il existe néanmoins des raccourcis pour permettre d'utiliser des chemins relatifs. Par exemple pour remonter d'un échelon dans l'arborescence il est possible d'utiliser la command `cd ..`
+
+3. Afin de retourner dans son dossier rapidement avec la commande `cd`
+
+4. Pour retourner au dossier précédement visité, il existe la commande `cd -`
+
+5. Accès refusé
+
+6. 
