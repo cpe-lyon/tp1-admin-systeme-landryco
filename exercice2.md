@@ -46,3 +46,13 @@ xfs (5)              - layout, mount options, and supported file attributes for 
 7. _Création d'arborescence_
 
     `mkdir dossier1 && touch dossier1/fichier1 && mkdir dossier2 && mkdir dossier2/dossier2.1 && mkdir dossier2/dossier2.2 && touch dossier2/dossier2.2/fichier2 && touch dossier2/dossier2.2/fichier3`
+
+8. La commande `rm` permet de supprimer un fichier mais pas un dossier.
+
+9. Pour supprimer un dossier, il faut utiliser la commande`rmdir`.
+
+10. La commande nous retourne que le dossier comporte des fichiers.
+
+11. Il faut utiliser la commande `rm -r`.
+
+## :pushpin: Commandes importantes
