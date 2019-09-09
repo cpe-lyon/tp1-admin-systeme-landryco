@@ -41,4 +41,8 @@ xfs (5)              - layout, mount options, and supported file attributes for 
 
 5. Accès refusé
 
-6. 
+6. La commande cd fait partie du bash. Il s'agit d'une commande interne au shell. Sudo ne peut pas les utiliser
+
+7. _Création d'arborescence_
+
+    `mkdir dossier1 && touch dossier1/fichier1 && mkdir dossier2 && mkdir dossier2/dossier2.1 && mkdir dossier2/dossier2.2 && touch dossier2/dossier2.2/fichier2 && touch dossier2/dossier2.2/fichier3`
