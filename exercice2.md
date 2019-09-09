@@ -56,3 +56,23 @@ xfs (5)              - layout, mount options, and supported file attributes for 
 11. Il faut utiliser la commande `rm -r`.
 
 ## :pushpin: Commandes importantes
+
+1. Pour voir l'heure, utiliser la commande `date`.
+
+2. La commande `ls` affiche les fichiers du dossier. La commande `la` affiche __tous__ les (même cachés). Les fichiers étant nommés avec un "." au début de leur nom, son cachés. 
+
+3. `which ls` : `/usr/bin/ls`
+
+4. La commande `ll` affiche la totalité des informations des fichiers/dossiers (droits, propriétaire, groupe propriétaire, horodatage, taille, nom)
+
+5. `ls /bin`
+
+6. La commande `ls ..` permet de lister le dossier à l'échelon suppérieur dans l'arborescence.
+
+7. La commande `pwd` permet de donner le chemin complet du dossier courant.
+
+8. L'utilisation d'un seul symbole ">" permet de créer un fichier et y inscrir la chaine de caractère entre ''.
+
+9. L'utilisation de deux symboles ">>" permet de créer un fichier et y inscrir la chaine de caractère entre ''. Si celle-ci est déjà présente, elle sera inscrite une deuxième fois.
+
+10. 
